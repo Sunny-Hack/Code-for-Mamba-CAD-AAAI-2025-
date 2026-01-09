@@ -16,5 +16,5 @@ pip install -r environment.txt
 ## Dataset
 
 Please download the pre-processed dataset from the following link:
-- [Google Drive Link](https://drive.google.com/file/d/1q7CXAyPOYBK94zitCpJg06YYkDZQpYh7/view?usp=drive_link)
+- (https://drive.google.com/file/d/1q7CXAyPOYBK94zitCpJg06YYkDZQpYh7/view?usp=drive_link)
 
