@@ -18,3 +18,11 @@ pip install -r environment.txt
 Please download the pre-processed dataset from the following link:
 - (https://drive.google.com/file/d/1q7CXAyPOYBK94zitCpJg06YYkDZQpYh7/view?usp=drive_link)
 
+## Train & Test
+
+To train and evaluate the Mamba-CAD model, we provide a unified shell script that handles the entire pipeline.
+
+Simply run the following command:
+
+```bash
+bash start.sh
