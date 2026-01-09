@@ -32,9 +32,12 @@ bash start.sh
 If you find our work useful in your research, please consider citing:
 
 ```bibtex
-@inproceedings{mambacad2025,
-  title={Mamba-CAD: State Space Model for 3D Computer-Aided Design Generative Modeling},
-  author={Your Name and Co-authors},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+@inproceedings{li2025mamba,
+  title={Mamba-cad: State space model for 3d computer-aided design generative modeling},
+  author={Li, Xueyang and Lou, Yunzhong and Song, Yu and Zhou, Xiangdong},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={5},
+  pages={5013--5021},
   year={2025}
 }
