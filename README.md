@@ -1,5 +1,10 @@
 # Code-for-Mamba-CAD-(AAAI-2025)
 Code for Mamba-CAD: State Space Model for 3D Computer-Aided Design Generative Modeling
+
+<p align="center">
+  <img src="figure.png" width="800" title="Mamba-CAD Architecture">
+</p>
+
 ## Environment
 
 We recommend creating a new Conda environment to ensure the project runs correctly. 
