@@ -11,3 +11,4 @@ Run the following commands to create a new environment:
 ```bash
 conda create -n mcad python=3.9.1
 conda activate mcad
+pip install -r environment.txt
