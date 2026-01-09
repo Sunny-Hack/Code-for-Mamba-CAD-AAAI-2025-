@@ -26,3 +26,15 @@ Simply run the following command:
 
 ```bash
 bash start.sh
+```
+## Citation
+
+If you find our work useful in your research, please consider citing:
+
+```bibtex
+@inproceedings{mambacad2025,
+  title={Mamba-CAD: State Space Model for 3D Computer-Aided Design Generative Modeling},
+  author={Your Name and Co-authors},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2025}
+}
