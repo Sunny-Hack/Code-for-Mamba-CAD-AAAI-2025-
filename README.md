@@ -4,7 +4,7 @@ Code for Mamba-CAD: State Space Model for 3D Computer-Aided Design Generative Mo
 
 We recommend creating a new Conda environment to ensure the project runs correctly. 
 
-### 1. Create and Activate Conda Environment
+### Create and Activate Conda Environment
 
 Run the following commands to create a new environment:
 
@@ -16,5 +16,5 @@ pip install -r environment.txt
 ## Dataset
 
 Please download the pre-processed dataset from the following link:
-- [Google Drive Link]()
+- [Google Drive Link](https://drive.google.com/file/d/1q7CXAyPOYBK94zitCpJg06YYkDZQpYh7/view?usp=drive_link)
 
